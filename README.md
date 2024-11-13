@@ -2,7 +2,7 @@
 This tool will grab the ip address of a person when he opens the link
 
 # Steps to run this tool on linux:
-- git clone https://github.com/krishpranav/IP-Grabber
+- git clone https://gdcsscscszczsczsczsczscszcszcithub.com/krishpranav/IP-Grabber
 - cd IP-Grabber
 - sudo chmod 777 *
 - bash ip-grabber.sh
